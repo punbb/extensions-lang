@@ -62,6 +62,7 @@ $lang_pun_repository = array(
 	'Error while opening {} in write binary mode'	=>	'Ошибка при открытии (\'%s\') для записи в бинарном режиме',
 	'Extracted file does not have the correct file size'	=>	'Извлеченный файл \'%s\' имеет неверный размер',
 	'Archive may be corrupted'		=>	'Архив может быть поврежден.',
+	'Copy fail'						=>	'Невозможно скопировать новые файлы расширения в старый каталог %s.',
 );
 
-?>
+
